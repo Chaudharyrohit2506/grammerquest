@@ -1,3 +1,7 @@
-plugins {
-    id 'com.android.application' version '8.7.3' apply false
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.grammarquest.app'
+    compileSdk 35
+    defaultConfig { applicationId 'com.grammarquest.app'; minSdk 23; targetSdk 28; versionCode 4; versionName '1.4' }
 }
