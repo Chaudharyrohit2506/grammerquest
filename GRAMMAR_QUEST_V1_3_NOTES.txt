@@ -1,0 +1,5 @@
+Grammar Quest v1.3 — Roadmap and extra practice
+
+Added a 36-month curriculum roadmap across foundations, professional communication, and advanced fluency. Added a shortcut to continue extra grammar practice beyond the daily goal. No 30-day expiry or practice lock.
+
+Important limitations: this release includes a roadmap, not three years of unique daily lessons. The existing question/vocabulary/sentence banks are finite and cycle. Free-text sentence answers are not automatically graded. APK compilation and physical Android testing have not been performed.

@@ -1,0 +1,9 @@
+Grammar Quest v1.4 — Placement Screening and Skill-Focused Practice
+
+Added a 16-question placement screening with four questions each for Grammar, Sentence Making, Daily-life vocabulary, and Office English. Results show per-skill scores and a provisional starting recommendation. The test does not add XP or affect ordinary quiz accuracy. Results are stored locally.
+
+Added a practice-by-skill selector to filter the current question bank and let learners focus on a skill immediately. Applying the placement plan starts practice with the lowest-scoring skill. The learner can switch skill or choose mixed practice at any time.
+
+Critical limitations: the placement screen is not a validated CEFR assessment; four items per skill are only a rough first estimate. Existing questions are classified by topic labels, not a detailed curriculum map. The app does not yet track mastery per individual topic or automatically skip every mastered concept. Sentence free-text responses are not automatically graded.
+
+Verification: JavaScript syntax, duplicate HTML IDs, DOM references, ZIP contents, and a browser end-to-end run should be checked. APK compilation and physical-device testing have not been performed.
